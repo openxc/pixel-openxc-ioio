@@ -1,10 +1,10 @@
 IOIO for OpenXC
 =====================
-This library for IOIO is a version of the main [IOIO-library](https://github.com/ytai/ioio/). 
+This library for IOIO is based on the primary IOIO-library found in https://github.com/ytai/ioio/.
 
-The accompanying android project for use with this library is here
+The accompanying android project for use with this library is located https://github.com/openxc/pixel-openxc-android
 
-The board provides a host machine the capability of interfacing with external hardware over a variety of commonly used protocols. The original IOIO board has been specifically designed to work with Android devices. The newer IOIO-OTG ("on the go") boards work with both Android devices and PC's (details here). The IOIO board can be connected to its host over USB or Bluetooth, and provides a high-level Java API on the host side for using its I/O functions as if they were an integral part of the client. The [IOIO-wiki](https://github.com/ytai/ioio/wiki) provides further details about setting up the library and troubleshooting.
+The board provides a host machine the capability of interfacing with external hardware over a variety of commonly used protocols. The original IOIO board has been specifically designed to work with Android devices. The newer IOIO-OTG ("on the go") boards work with both Android devices and PC's (details here). The IOIO board can be connected to its host over USB or Bluetooth, and provides a high-level Java API on the host side for using its I/O functions as if they were an integral part of the client. The IOIO-wiki here https://github.com/ytai/ioio/wiki, provides further details about setting up the library and troubleshooting.
 
 See http://ledpixelart.com/developers.html for instructions to write your own app for PIXEL.
 
